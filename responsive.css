@@ -1,0 +1,20 @@
+@media(max-width:700px){
+    .main{
+        margin-top: 0%;
+    }
+       .submain{
+        width: 90%;
+       }
+       .box{
+        height: 6rem;
+       }
+
+       .player{
+        font-size: 2.5rem;
+        height: 3rem;
+        gap: 4%;
+       }
+       .com{
+        font-size: 2.5rem;
+       }
+}

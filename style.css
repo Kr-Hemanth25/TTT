@@ -1,0 +1,70 @@
+*{
+    background-color:black;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* visibility: ; */
+
+}
+.submain{
+    display: flex;
+    height: 50%;
+    width: 50%;
+}
+.box{
+    /* background-color:burlywood; */
+    height: 8rem;
+    width: 100%;
+}
+.b{
+    border-bottom: 2rem solid white;
+    border-radius: 2rem;
+}
+.t{
+    border-top: 2rem solid white;
+    border-radius: 2rem;
+}
+.r{
+    border-right: 2rem solid white;
+    border-radius: 2rem;
+}
+.l{
+    border-left: 2rem solid white;
+    border-radius: 2rem;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.player{
+    font-size: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    position: relative;
+    top: 0rem;
+    font-family: "Protest Revolution", sans-serif;
+    color: white;
+    text-transform: capitalize;
+      
+}
+.com{
+    color: white;
+    font-family: "Protest Revolution", sans-serif;
+    text-transform: capitalize;
+    font-size: 5rem;
+    height: 2rem;
+    padding: 1rem;
+    text-align: center;
+
+}
+
+  
