@@ -30,7 +30,7 @@ The HTML file contains the structure of the game board and the necessary UI elem
 - A `div` element to display commentary with the class `com`.
 - Two `div` elements to display the score of Player 1 and Player 2 with classes `player1` and `player2`.
 ### Where To Find
--Hosted at:https://krttt.freewebhostmost.com/
+-Hosted at:https://krttt.netlify.app/
 
 
 ### CSS Styling
